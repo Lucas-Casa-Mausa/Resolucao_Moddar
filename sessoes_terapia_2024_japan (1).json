@@ -1,0 +1,722 @@
+[
+    {
+        "data":"2024\/01\/11 17:10:07 JST",
+        "paciente":"Eduardo",
+        "terapeuta":"Dr. Eduardo",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/01\/07 10:34:49 JST",
+        "paciente":"Camila",
+        "terapeuta":"Dr. Otávio",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/01\/15 21:51:55 JST",
+        "paciente":"Renato",
+        "terapeuta":"Dr. Yago",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/01\/16 17:14:04 JST",
+        "paciente":"Patrícia",
+        "terapeuta":"Dra. Daniela",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/01\/06 12:27:13 JST",
+        "paciente":"Daniela",
+        "terapeuta":"Dr. Otávio",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/01\/24 11:51:46 JST",
+        "paciente":"Ricardo",
+        "terapeuta":"Dr. André",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/01\/06 20:51:44 JST",
+        "paciente":"Lucas",
+        "terapeuta":"Dra. Zuleika",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/01\/08 13:46:33 JST",
+        "paciente":"Sara",
+        "terapeuta":"Dra. Camila",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/01\/12 21:37:42 JST",
+        "paciente":"Amanda",
+        "terapeuta":"Dr. Alexandre",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/01\/28 15:07:45 JST",
+        "paciente":"Gabriela",
+        "terapeuta":"Dr. Gabriel",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/02\/20 17:31:18 JST",
+        "paciente":"Carolina",
+        "terapeuta":"Dr. Igor",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/02\/10 16:43:07 JST",
+        "paciente":"Tatiane",
+        "terapeuta":"Dr. Kleber",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/02\/20 10:27:30 JST",
+        "paciente":"Sara",
+        "terapeuta":"Dr. Felipe",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/02\/12 10:21:51 JST",
+        "paciente":"Gustavo",
+        "terapeuta":"Dr. Eduardo",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/02\/27 09:21:33 JST",
+        "paciente":"Thiago",
+        "terapeuta":"Dra. Camila",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/02\/12 10:43:53 JST",
+        "paciente":"Thiago",
+        "terapeuta":"Dra. Juliana",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/02\/28 16:55:59 JST",
+        "paciente":"Daniela",
+        "terapeuta":"Dr. Eduardo",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/02\/20 07:23:12 JST",
+        "paciente":"Daniela",
+        "terapeuta":"Dr. Gabriel",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/02\/25 08:06:59 JST",
+        "paciente":"Bruno",
+        "terapeuta":"Dr. Alexandre",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/02\/05 21:36:53 JST",
+        "paciente":"Fernando",
+        "terapeuta":"Dra. Beatriz",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/03\/16 08:36:53 JST",
+        "paciente":"Renato",
+        "terapeuta":"Dra. Beatriz",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/03\/26 12:46:36 JST",
+        "paciente":"Gabriela",
+        "terapeuta":"Dr. Ubirajara",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/03\/16 12:49:30 JST",
+        "paciente":"Daniela",
+        "terapeuta":"Dr. Caio",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/03\/13 16:41:10 JST",
+        "paciente":"Sérgio",
+        "terapeuta":"Dr. Ubirajara",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/03\/20 17:27:25 JST",
+        "paciente":"Rafael",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/03\/08 08:53:13 JST",
+        "paciente":"Gustavo",
+        "terapeuta":"Dr. Kleber",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/03\/17 14:21:18 JST",
+        "paciente":"Natália",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/03\/20 18:36:43 JST",
+        "paciente":"Amanda",
+        "terapeuta":"Dra. Daniela",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/03\/25 11:45:04 JST",
+        "paciente":"Isabela",
+        "terapeuta":"Dra. Zuleika",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/03\/13 14:04:33 JST",
+        "paciente":"Mariana",
+        "terapeuta":"Dr. Ubirajara",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/04\/22 14:39:13 JST",
+        "paciente":"André",
+        "terapeuta":"Dra. Helena",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/04\/27 12:12:55 JST",
+        "paciente":"Vinícius",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/04\/10 21:35:23 JST",
+        "paciente":"Juliana",
+        "terapeuta":"Dra. Camila",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/04\/02 12:39:12 JST",
+        "paciente":"Lucas",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/04\/10 11:38:16 JST",
+        "paciente":"Leonardo",
+        "terapeuta":"Dra. Priscila",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/04\/08 08:42:12 JST",
+        "paciente":"André",
+        "terapeuta":"Dra. Sabrina",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/04\/01 11:03:15 JST",
+        "paciente":"Bruno",
+        "terapeuta":"Dra. Camila",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/04\/11 07:57:30 JST",
+        "paciente":"Eduardo",
+        "terapeuta":"Dr. André",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/04\/13 21:51:50 JST",
+        "paciente":"Patrícia",
+        "terapeuta":"Dra. Fernanda",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/04\/06 15:09:23 JST",
+        "paciente":"Eduardo",
+        "terapeuta":"Dr. Eduardo",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/05\/06 11:09:03 JST",
+        "paciente":"Sérgio",
+        "terapeuta":"Dra. Priscila",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/05\/06 09:18:26 JST",
+        "paciente":"Thiago",
+        "terapeuta":"Dr. Felipe",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/05\/23 17:54:16 JST",
+        "paciente":"Leonardo",
+        "terapeuta":"Dr. Igor",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/05\/13 17:00:49 JST",
+        "paciente":"Camila",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/05\/04 12:23:28 JST",
+        "paciente":"Sara",
+        "terapeuta":"Dr. Marcos",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/05\/17 19:31:49 JST",
+        "paciente":"Bruno",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/05\/13 21:42:40 JST",
+        "paciente":"Amanda",
+        "terapeuta":"Dra. Beatriz",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/05\/05 19:30:40 JST",
+        "paciente":"Renato",
+        "terapeuta":"Dr. Felipe",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/05\/11 19:58:52 JST",
+        "paciente":"Gustavo",
+        "terapeuta":"Dra. Natália",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/05\/18 17:14:06 JST",
+        "paciente":"Leonardo",
+        "terapeuta":"Dra. Zuleika",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/06\/18 15:30:06 JST",
+        "paciente":"Bruno",
+        "terapeuta":"Dr. Marcos",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/06\/05 18:33:31 JST",
+        "paciente":"Eduardo",
+        "terapeuta":"Dra. Xênia",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/06\/04 20:06:49 JST",
+        "paciente":"Eduardo",
+        "terapeuta":"Dr. Igor",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/06\/27 11:44:18 JST",
+        "paciente":"Gustavo",
+        "terapeuta":"Dra. Sabrina",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/06\/08 20:12:45 JST",
+        "paciente":"Thiago",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/06\/22 15:42:25 JST",
+        "paciente":"Rodrigo",
+        "terapeuta":"Dr. Kleber",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/06\/21 16:28:34 JST",
+        "paciente":"Gustavo",
+        "terapeuta":"Dr. Ubirajara",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/06\/24 13:46:36 JST",
+        "paciente":"Vinícius",
+        "terapeuta":"Dra. Priscila",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/06\/21 19:04:44 JST",
+        "paciente":"Rafael",
+        "terapeuta":"Dr. Felipe",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/06\/28 10:55:33 JST",
+        "paciente":"Leonardo",
+        "terapeuta":"Dra. Tatiane",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/07\/07 20:56:37 JST",
+        "paciente":"Beatriz",
+        "terapeuta":"Dra. Juliana",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/07\/28 21:13:08 JST",
+        "paciente":"Lucas",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/07\/06 11:41:59 JST",
+        "paciente":"Lucas",
+        "terapeuta":"Dra. Tatiane",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/07\/27 08:24:24 JST",
+        "paciente":"Sara",
+        "terapeuta":"Dr. Kleber",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/07\/16 11:36:21 JST",
+        "paciente":"Patrícia",
+        "terapeuta":"Dra. Sabrina",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/07\/02 20:07:53 JST",
+        "paciente":"Fernando",
+        "terapeuta":"Dr. Ubirajara",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/07\/14 10:27:54 JST",
+        "paciente":"Juliana",
+        "terapeuta":"Dr. Felipe",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/07\/01 09:22:42 JST",
+        "paciente":"Carolina",
+        "terapeuta":"Dra. Camila",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/07\/09 18:48:53 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dra. Vanessa",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/07\/01 19:22:54 JST",
+        "paciente":"Patrícia",
+        "terapeuta":"Dra. Beatriz",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/08\/17 13:18:31 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dra. Helena",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/08\/22 12:40:17 JST",
+        "paciente":"Fernando",
+        "terapeuta":"Dr. Marcos",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/08\/06 08:43:16 JST",
+        "paciente":"André",
+        "terapeuta":"Dra. Daniela",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/08\/07 11:25:16 JST",
+        "paciente":"Renato",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/08\/12 11:24:30 JST",
+        "paciente":"Beatriz",
+        "terapeuta":"Dr. Ubirajara",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/08\/28 19:29:28 JST",
+        "paciente":"Renato",
+        "terapeuta":"Dra. Vanessa",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/08\/21 18:50:08 JST",
+        "paciente":"Rafael",
+        "terapeuta":"Dr. Kleber",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/08\/27 20:58:53 JST",
+        "paciente":"Daniela",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/08\/20 10:00:20 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dr. Sérgio",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/08\/09 09:06:49 JST",
+        "paciente":"Natália",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/09\/20 15:12:04 JST",
+        "paciente":"Ricardo",
+        "terapeuta":"Dr. Caio",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/09\/15 18:50:50 JST",
+        "paciente":"Renato",
+        "terapeuta":"Dra. Tatiane",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/09\/12 20:15:27 JST",
+        "paciente":"Isabela",
+        "terapeuta":"Dr. Otávio",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/09\/11 14:23:12 JST",
+        "paciente":"Sara",
+        "terapeuta":"Dra. Natália",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/09\/23 08:22:27 JST",
+        "paciente":"Fernando",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/09\/06 13:19:14 JST",
+        "paciente":"Natália",
+        "terapeuta":"Dra. Natália",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/09\/13 12:19:31 JST",
+        "paciente":"Thiago",
+        "terapeuta":"Dra. Beatriz",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/09\/27 16:24:16 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dr. Alexandre",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/09\/13 14:26:44 JST",
+        "paciente":"Vinícius",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/09\/21 14:59:26 JST",
+        "paciente":"Camila",
+        "terapeuta":"Dr. Ricardo",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/10\/15 19:53:04 JST",
+        "paciente":"Gustavo",
+        "terapeuta":"Dra. Vanessa",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/10\/03 11:00:53 JST",
+        "paciente":"Lucas",
+        "terapeuta":"Dr. Alexandre",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/10\/28 07:11:45 JST",
+        "paciente":"Felipe",
+        "terapeuta":"Dr. Sérgio",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/10\/16 15:58:17 JST",
+        "paciente":"Vinícius",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/10\/15 08:06:47 JST",
+        "paciente":"Camila",
+        "terapeuta":"Dr. Eduardo",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/10\/04 19:49:35 JST",
+        "paciente":"Rafael",
+        "terapeuta":"Dr. Sérgio",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/10\/02 09:51:52 JST",
+        "paciente":"Larissa",
+        "terapeuta":"Dr. Sérgio",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/10\/03 15:38:35 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dr. Caio",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/10\/19 18:52:39 JST",
+        "paciente":"Patrícia",
+        "terapeuta":"Dr. Eduardo",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/10\/11 12:09:05 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dr. Caio",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/11\/06 13:47:39 JST",
+        "paciente":"Rafael",
+        "terapeuta":"Dr. Ricardo",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/11\/15 14:54:27 JST",
+        "paciente":"Natália",
+        "terapeuta":"Dra. Juliana",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/11\/06 16:33:37 JST",
+        "paciente":"André",
+        "terapeuta":"Dr. André",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/11\/05 12:42:53 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dra. Helena",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/11\/20 10:15:32 JST",
+        "paciente":"Renato",
+        "terapeuta":"Dra. Helena",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/11\/18 15:33:07 JST",
+        "paciente":"Larissa",
+        "terapeuta":"Dra. Juliana",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/11\/11 13:41:52 JST",
+        "paciente":"Sara",
+        "terapeuta":"Dr. Igor",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/11\/27 17:19:54 JST",
+        "paciente":"Gabriela",
+        "terapeuta":"Dra. Zuleika",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/11\/05 12:30:00 JST",
+        "paciente":"Rafael",
+        "terapeuta":"Dra. Isabela",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/11\/08 09:19:45 JST",
+        "paciente":"Larissa",
+        "terapeuta":"Dr. Caio",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/12\/13 12:10:42 JST",
+        "paciente":"André",
+        "terapeuta":"Dra. Sabrina",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/12\/10 21:59:46 JST",
+        "paciente":"Fernando",
+        "terapeuta":"Dr. Sérgio",
+        "plano":"Completo"
+    },
+    {
+        "data":"2024\/12\/24 19:58:27 JST",
+        "paciente":"Gabriela",
+        "terapeuta":"Dr. Ubirajara",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/12\/25 18:03:39 JST",
+        "paciente":"Vanessa",
+        "terapeuta":"Dr. Caio",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/12\/07 13:37:13 JST",
+        "paciente":"Carolina",
+        "terapeuta":"Dra. Larissa",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/12\/13 21:22:27 JST",
+        "paciente":"Lucas",
+        "terapeuta":"Dr. Felipe",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/12\/28 11:32:43 JST",
+        "paciente":"Leonardo",
+        "terapeuta":"Dra. Fernanda",
+        "plano":"Avulsa"
+    },
+    {
+        "data":"2024\/12\/07 16:37:57 JST",
+        "paciente":"Leonardo",
+        "terapeuta":"Dr. Caio",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/12\/13 07:01:09 JST",
+        "paciente":"Sérgio",
+        "terapeuta":"Dra. Zuleika",
+        "plano":"Quinzenal"
+    },
+    {
+        "data":"2024\/12\/24 14:15:08 JST",
+        "paciente":"Natália",
+        "terapeuta":"Dr. André",
+        "plano":"Quinzenal"
+    }
+]
